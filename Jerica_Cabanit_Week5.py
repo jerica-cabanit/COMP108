@@ -23,8 +23,8 @@ while(counter < 3):
     f=(9/5) *ctemp+32
     print('farenheit temp is', f)
     counter=counter+1
-if counter == 2 :
-    break
+    if counter == 3 :
+        break
 
 #6th Activity
 #This program will calculate the grade
